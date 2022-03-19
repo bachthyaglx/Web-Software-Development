@@ -1,0 +1,11 @@
+<form method="POST">
+  Sender: <input type="text" name="sender" /><br/>
+  Message: <input type="text" name="message" /><br/>
+  <input type="submit" value="Send" />
+</form>
+<h1>Messager</h1>
+<% it.messages.forEach((i) => { %>
+  <p>
+    <%= i.sender %>: <%= i.message %>
+  </p>
+<% }); %>
