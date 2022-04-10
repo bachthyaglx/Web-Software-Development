@@ -1,3 +1,5 @@
+# Project 1: Shared Shopping Lists
+
 # The name of the application
 Shared Shopping Lists
 
