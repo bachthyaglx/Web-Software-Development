@@ -1,8 +1,5 @@
 # Project 1: Shared Shopping Lists
 
-# The name of the application
-Shared Shopping Lists
-
 # A brief description of the application
 The shared shopping lists is the first project during the course Web Software Development organized by Aalto University. The application is built based on the structural knowledge of web development together with the support of other techniques and tools including Docker, Heroku, PostgreSQL and or ElephanSQL. The software should be able to meet the requirement of course about steps and successfully worked in both local as well as host deployment.
 
